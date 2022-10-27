@@ -38,3 +38,5 @@
     
 </div>
 <br>
+
+![test coverage](.github/badges/jacoco.svg)
